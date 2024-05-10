@@ -143,8 +143,7 @@ class Lookahead extends IteratorIterator implements Outer
      *
      * @return  void
      */
-    #[\ReturnTypeWillChange]
-    public function rewind() 
+    public function rewind() : void
     {
         $this->getInnerIterator()->rewind();
         
