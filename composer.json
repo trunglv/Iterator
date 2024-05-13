@@ -1,5 +1,5 @@
 {
-    "name"       : "hoa/iterator",
+    "name"       : "trunglv/iterator",
     "description": "The Hoa\\Iterator library.",
     "type"       : "library",
     "keywords"   : ["library", "iterator"],
