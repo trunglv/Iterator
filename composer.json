@@ -35,10 +35,5 @@
             "Hoa\\Iterator\\"      : "Source",
             "Hoa\\Iterator\\Test\\": "Test"
         }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.x-dev"
-        }
     }
 }
