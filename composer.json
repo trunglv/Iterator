@@ -24,7 +24,7 @@
     },
     "require": {
         "php"            : ">=7.1",
-        "hoa/consistency": "dev-master",
+        "trunglv/consistency": "dev-master",
         "hoa/exception"  : "dev-master"
     },
     "require-dev": {
